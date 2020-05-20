@@ -10,9 +10,9 @@ variable "tags" {
 variable "ami" {
   type = string
 }
-variable "key" {
-  type = string
-}
+# variable "key" {
+#   type = string
+# }
 variable "av_zone" {
   type = string
 }
