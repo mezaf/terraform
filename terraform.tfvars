@@ -6,5 +6,4 @@ tags={
       "Owner" = "mezaf"
   }
 ami="ami-00d34bbabb16a7591"
-key="access_personal"
 av_zone = "us-east-1a"
